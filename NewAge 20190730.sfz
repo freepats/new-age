@@ -1,0 +1,122 @@
+//+ Name: New Age
+//+ Date: 2019-07-30
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-pad.html#NewAge
+
+<global>
+ //+ Instrument: New Age
+ ampeg_release=1.9
+ loop_mode=loop_continuous
+
+<group>
+<region>
+ lokey=34
+ hikey=37
+ pitch_keycenter=36
+ loop_start=182647
+ loop_end=396799
+ sample=samples/C2.flac
+<region>
+ lokey=38
+ hikey=41
+ pitch_keycenter=40
+ loop_start=161563
+ loop_end=374291
+ sample=samples/E2.flac
+<region>
+ lokey=42
+ hikey=45
+ pitch_keycenter=44
+ loop_start=164330
+ loop_end=388482
+ sample=samples/G#2.flac
+<region>
+ lokey=46
+ hikey=49
+ pitch_keycenter=48
+ loop_start=165283
+ loop_end=395775
+ sample=samples/C3.flac
+<region>
+ lokey=50
+ hikey=53
+ pitch_keycenter=52
+ loop_start=147455
+ loop_end=374783
+ sample=samples/E3.flac
+<region>
+ lokey=54
+ hikey=57
+ pitch_keycenter=56
+ loop_start=145307
+ loop_end=345079
+ sample=samples/G#3.flac
+<region>
+ lokey=58
+ hikey=61
+ pitch_keycenter=60
+ loop_start=112173
+ loop_end=330803
+ sample=samples/C4.flac
+<region>
+ lokey=62
+ hikey=65
+ pitch_keycenter=64
+ loop_start=115725
+ loop_end=303615
+ sample=samples/E4.flac
+<region>
+ lokey=66
+ hikey=69
+ pitch_keycenter=68
+ loop_start=103656
+ loop_end=257543
+ sample=samples/G#4.flac
+<region>
+ lokey=70
+ hikey=73
+ pitch_keycenter=72
+ loop_start=104269
+ loop_end=265523
+ sample=samples/C5.flac
+<region>
+ lokey=74
+ hikey=77
+ pitch_keycenter=76
+ loop_start=106254
+ loop_end=252287
+ sample=samples/E5.flac
+<region>
+ lokey=78
+ hikey=81
+ pitch_keycenter=80
+ loop_start=92965
+ loop_end=228661
+ sample=samples/G#5.flac
+<region>
+ lokey=82
+ hikey=85
+ pitch_keycenter=84
+ loop_start=94255
+ loop_end=231353
+ sample=samples/C6.flac
+<region>
+ lokey=86
+ hikey=89
+ pitch_keycenter=88
+ loop_start=97846
+ loop_end=230695
+ sample=samples/E6.flac
+<region>
+ lokey=90
+ hikey=93
+ pitch_keycenter=92
+ loop_start=90886
+ loop_end=223248
+ sample=samples/G#6.flac
+<region>
+ hikey=98
+ lokey=94
+ pitch_keycenter=96
+ loop_start=99363
+ loop_end=232995
+ sample=samples/C7.flac
